@@ -1,16 +1,24 @@
-## Hi there 👋
+# Mi sitio personal
+Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis proyectos y mis intereses.
 
-<!--
-**kesameji/Kesameji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Contenido
+* [Información personal](#información-personal)
+* [Proyectos](#proyectos)
+* [Intereses](#intereses)
 
-Here are some ideas to get you started:
+## Información personal
+* Nombre: Kevin Santiago Mejia Parra
+* Ocupación: Desarrollador Backend en .NET
+* Lugar de residencia: Guayaquil
+* Sitio web: No tengo jeje
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Proyectos
+* Aplicaciones de escritorio en java con JavaFX y con C# con WPF.
+* Aplicaciones web con ASP.NET Core.
+* Otros.
+
+## Intereses
+* Matematica.
+* Desarrollo de sistemas.
+* Desarrollo de videojuegos.
+* Neovim.
