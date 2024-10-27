@@ -13,7 +13,7 @@ Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis pr
 * Sitio web: Este jeje.
 
 ## Proyectos
-* Aplicaciones de escritorio en java con JavaFX y con C# con WPF.
+* Aplicaciones de escritorio en java con JavaFX y en C# con WPF.
 * Aplicaciones web con ASP.NET Core.
 * Aplicaciones de consola con C++ y C.
 
